@@ -40,6 +40,14 @@
       <HintPath>D:\Steam\steamapps\common\SiNiSistar 2\BepInEx\interop\Unity.InputSystem.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:\Steam\steamapps\common\SiNiSistar 2\BepInEx\interop\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>D:\Steam\steamapps\common\SiNiSistar 2\BepInEx\interop\UnityEngine.UIModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
     <Reference Include="SiNiSistar2">
       <HintPath>D:\Steam\steamapps\common\SiNiSistar 2\BepInEx\interop\SiNiSistar2.dll</HintPath>
       <Private>false</Private>

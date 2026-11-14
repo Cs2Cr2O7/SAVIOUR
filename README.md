@@ -2,11 +2,12 @@
 
 SiNiSistar 2 的鼠标操作插件。游戏没有公开的 Mod 接口，这个插件通过 BepInEx 的 IL2CPP 加载器接入。
 
-当前版本 **1.2.3**。
+当前版本 **1.2.4**。
 
 - 左键：普通攻击，并按鼠标所在的左右让角色转身。
 - 侧键：近战魔法剑。
 - 右键：魔法弓。箭的飞行方向朝向鼠标。拉弓时原版的扇形瞄准动画仍会播放。
+- 主菜单以及设置、读档等子菜单打开时，鼠标移到条目上只移动光标，按下左键才确认，右键返回。没有选项的对话用左键继续。这段时间左键和右键不再同时当作攻击或拉弓。
 - 移动、跳跃、奔跑仍用游戏里的按键设置。
 - 游戏中按 **F8** 可以开关这套鼠标操作。
 
@@ -28,7 +29,7 @@ SiNiSistar 2 的鼠标操作插件。游戏没有公开的 Mod 接口，这个�
 
    `游戏目录\BepInEx\plugins\Sini2MouseInput.dll`
 
-5. 再启动游戏。`BepInEx\LogOutput.log` 里出现 `Loading [Sini2 Mouse Input 1.2.3]` 和 `Chainloader startup complete` 就是加载成功。
+5. 再启动游戏。`BepInEx\LogOutput.log` 里出现 `Loading [Sini2 Mouse Input 1.2.4]` 和 `Chainloader startup complete` 就是加载成功。
 
 ## 卸载
 

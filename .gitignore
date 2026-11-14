@@ -2,6 +2,7 @@ BepInEx-Unity-IL2CPP/
 BepInEx-Unity-IL2CPP-be.793/
 MouseInput/obj/
 MouseInput/bin/
+MouseInput/.vs/
 ERROR.txt
 *.user
 
